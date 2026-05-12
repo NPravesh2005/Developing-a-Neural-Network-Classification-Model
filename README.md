@@ -238,4 +238,4 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 
 ## RESULT
-Include your result here
+Thus, a neural network for classification model is implemented successfully.
