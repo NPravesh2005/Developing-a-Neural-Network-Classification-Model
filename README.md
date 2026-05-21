@@ -34,7 +34,7 @@ Give a custom data to predict the output, analyze the model using confusion matr
 
 ## PROGRAM
 
-### Name: PRAVESH NN
+### Name: PRAVESH N
 ### Register Number: 212223230154
 
 ```python
