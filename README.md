@@ -8,8 +8,6 @@ An automobile company has plans to enter new markets with their existing product
 
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy for the new markets.
 
-You are required to help the manager to predict the right group of the new customers.
-
 ## Neural Network Model
 
 <img width="1070" height="847" alt="Screenshot 2026-05-12 144313" src="https://github.com/user-attachments/assets/01482a77-03a3-4010-9ba0-b4a7f9b0fc2f" />
